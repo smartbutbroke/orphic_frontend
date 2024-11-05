@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Objective-regular";
+    src: url("./fonts/Objective/Objective-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Objective-medium";
+    src: url("./fonts/Objective/Objective-Medium.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "HelveticaNow-black";
+    src: url("./fonts/HelveticaNowDisplay/HelveticaNowDisplay-Black.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "HelveticaNow-bold";
+    src: url("./fonts/HelveticaNowDisplay/HelveticaNowDisplay-Bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
