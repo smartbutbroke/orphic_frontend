@@ -17,10 +17,8 @@ export default function Carousel() {
     };
 
     const images = [
-        { src: "/src/assets/orphic-web-banner-.png", alt: "banner" },
-        { src: "/src/assets/download.jpg", alt: "Image 1" },
-        { src: "/src/assets/download1.jpg", alt: "Image 2" }, // Replace with your image paths
-        { src: "/src/assets/download2.jpg", alt: "Image 3" }, // Replace with your image paths
+        { src: "/src/assets/orphic-banner-final_1.png", alt: "Banner 1" },
+        { src: "/src/assets/orphic-banner_Final_2.png", alt: "Banner 2" }
     ];
 
   return (

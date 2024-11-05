@@ -32,9 +32,9 @@ export default function Navbar() {
             </HStack>
         </Flex>
     </Box>
-    <Box bgColor="#40221c" h="25px">
+    <Box bgColor="black" h="25px">
         <Flex align="center" justify="center" h="100%">
-            <Text fontFamily="Objective-regular" fontSize="lg">B E Y O N D &nbsp;&nbsp;O R D I N A R Y .</Text>
+            <Text fontFamily="Objective-regular" fontSize="15px">B E Y O N D &nbsp;&nbsp;O R D I N A R Y &nbsp; .</Text>
         </Flex>
     </Box>
     </>
