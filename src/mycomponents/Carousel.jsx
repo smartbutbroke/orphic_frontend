@@ -12,7 +12,8 @@ export default function Carousel() {
         slidesToScroll: 1,
         autoplay: true, // Enable autoplay
         autoplaySpeed: 3000, // Time in milliseconds for each slide (3 seconds)
-        arrows: false
+        arrows: false,
+        pauseOnHover: false
     };
 
     const images = [
