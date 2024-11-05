@@ -23,7 +23,7 @@ export default function Carousel() {
     ];
 
   return (
-    <Box w="98.95vw" position="relative">
+    <Box w="100vw" position="relative">
         <Slider {...settings} >
             {images.map((image, index) => (
                 <AspectRatio key={index} ratio={2 / 1}>

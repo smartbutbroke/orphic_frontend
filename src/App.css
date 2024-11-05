@@ -26,3 +26,6 @@
     font-style: normal;
 }
 
+html::-webkit-scrollbar, body::-webkit-scrollbar {
+    display: none;
+  }
