@@ -8,27 +8,27 @@ export default function Navbar() {
     <>
     <Box bgColor="white" h="90px">
         <Flex padding="10" alignItems="center" justifyContent="space-between" h="100%">
-            <HStack fontFamily="Objective-medium" gap={5} alignItems="center" justify="center">
-                <Link fontSize="20px" color="black">
+            <HStack fontFamily="Objective-medium" gap={12} alignItems="center" justify="center">
+                <Link fontSize="13px" color="black">
                 T-SHIRTS
                 </Link >
-                <Link fontSize="20px" color="black">
+                <Link fontSize="13px" color="black">
                 SHOP
                 </Link>
-                <Link fontSize="20px" color="black">
+                <Link fontSize="13px" color="black">
                 BRAND
                 </Link>
-                <Link fontSize="20px" color="black">
+                <Link fontSize="13px" color="black">
                 ABOUT US
                 </Link>
             </HStack>
             <Box >
-                <Image src="/src/assets/orphic-logo-for-web.png" alt="Orphic Logo" h="50px" mx="auto" />
+                <Image src="/src/assets/orphic-logo-for-web.png" alt="Orphic Logo" h="42px" mx="auto" />
             </Box>
             <HStack marginLeft="100px" p="10" gap={10} alignItems="center" justify="center">
-                    <IoIosSearch size="50" color="black"/>
-                    <IoCartOutline size="50" color="black"/>
-                    <CiUser size="50" color="black"/>
+                    <IoIosSearch size="35" color="black"/>
+                    <IoCartOutline size="35" color="black"/>
+                    <CiUser size="35" color="black"/>
             </HStack>
         </Flex>
     </Box>

@@ -15,8 +15,8 @@ export default function NewArrivals() {
                         <Image src="/src/assets/Trilogy-for-web.png" />
                     </Flex>
                 </Box>
-                <Text p="5px" fontSize="xl" fontFamily="Objective-medium" marginTop="15px" color="black">THEWEEKND TRILOGY T-SHIRT</Text>
-                <Text p="5px" fontSize="xl" fontFamily="Objective-medium" marginTop="3px" color="black">₹ 1099</Text>
+                <Text p="5px" fontSize="lg" fontFamily="Objective-medium" marginTop="15px" color="black">THEWEEKND TRILOGY T-SHIRT</Text>
+                <Text p="5px" fontSize="lg" fontFamily="Objective-medium" marginTop="3px" color="black">₹ 1099</Text>
             </Box>
             <Box h="450px" w="500px">
                 <Box h="500px" bgColor="#f5f5f5" borderRadius="10px">
@@ -24,8 +24,8 @@ export default function NewArrivals() {
                         <Image src="/src/assets/Tyler-for-web.png" />
                     </Flex>
                 </Box>
-                <Text p="5px" fontSize="xl" fontFamily="Objective-medium" marginTop="15px" color="black">TYLER THE CREATOR T-SHIRT</Text>
-                <Text p="5px" fontSize="xl" fontFamily="Objective-medium" marginTop="3px" color="black">₹ 1099</Text>
+                <Text p="5px" fontSize="lg" fontFamily="Objective-medium" marginTop="15px" color="black">TYLER THE CREATOR T-SHIRT</Text>
+                <Text p="5px" fontSize="lg" fontFamily="Objective-medium" marginTop="3px" color="black">₹ 1099</Text>
             </Box>
             <Box h="450px" w="500px">
                 <Box h="500px" bgColor="#f5f5f5" borderRadius="10px">
@@ -33,8 +33,8 @@ export default function NewArrivals() {
                         <Image src="/src/assets/kanye-for-web.png" />
                     </Flex>
                 </Box>
-                <Text p="5px" fontSize="xl" fontFamily="Objective-medium" marginTop="15px" color="black">JEEN-YUHS KANYE T-SHIRT</Text>
-                <Text p="5px" fontSize="xl" fontFamily="Objective-medium" marginTop="3px" color="black">₹ 1099</Text>
+                <Text p="5px" fontSize="lg" fontFamily="Objective-medium" marginTop="15px" color="black">JEEN-YUHS KANYE T-SHIRT</Text>
+                <Text p="5px" fontSize="lg" fontFamily="Objective-medium" marginTop="3px" color="black">₹ 1099</Text>
             </Box>
         </Flex>
     </Box>
