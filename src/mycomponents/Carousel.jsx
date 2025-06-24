@@ -17,8 +17,8 @@ export default function Carousel() {
     };
 
     const images = [
-        { src: "/src/assets/orphic-banner-final_1.png", alt: "Banner 1" },
-        { src: "/src/assets/orphic-banner_Final_2.png", alt: "Banner 2" }
+        { src: "/orphic-banner-final_1.png", alt: "Banner 1" },
+        { src: "/orphic-banner_Final_2.png", alt: "Banner 2" }
     ];
 
   return (

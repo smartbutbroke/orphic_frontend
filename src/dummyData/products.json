@@ -4,19 +4,21 @@
         "url": "TYLER-THE-CREATOR",
         "productname" : "TYLER THE CREATOR",
         "description" : "Featuring ‘Almost Gods Communion’ and a hand-embroidered Saigon Tiger motif,crafted over a 24-hour process.\n\nDrawing from the chaos of Vietnam’s warfare, the tiger rages forward, a symbol of defiance against odds.",
-        "price" : "1099"
+        "price" : "1099",
+        "gallery" : ["C:/Users/arjun/Documents/orphic_frontend/orphic_frontend/src/assets/tyler01.png"]
     },
     {
         "Id" : 2,
         "url": "THEWEEKND-TRILOGY",
         "productname" : "THEWEEKND TRILOGY",
-        "description" : "",
+        "description" : "The T-shirt that says, ‘I’m complicated, but in the best way.’ Perfect for leaving a lasting impression (especially on moms).",
         "price" : 1099
     },
     {
         "Id" : 3,
         "url": "JEEN-YUHS-KANYE",
         "productname" : "JEEN-YUHS KANYE",
+        "description" : "Step into the mind of a musical genius with this Kanye West tee. Featuring his reference to his documentary JEEN-YUHS and entire discography, showcasing a journey through Kanye’s evolving artistry.\n\nThis piece gives a tribute to the creative genius and his emotional struggle, celebrating his profound impact on hip-hop." ,
         "price" : 1099
     }
 ]

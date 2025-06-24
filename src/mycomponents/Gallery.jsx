@@ -16,7 +16,7 @@ export default function Gallery() {
             <Flex gap="2px"align="center" justify="space-between">
             <Box w="25%">
             <Image
-                src="/src/assets/download.jpg" // Replace with your actual image path
+                src="/download.jpg" // Replace with your actual image path
                 alt="Image 1"
                 objectFit="cover"
                 width="100%" // Make the image take up the full width of its container
@@ -27,7 +27,7 @@ export default function Gallery() {
             {/* Image 2 */}
             <Box w="25%" >
             <Image
-                src="/src/assets/download.jpg"
+                src="/download.jpg"
                 alt="Image 2"
                 objectFit="cover"
                 width="100%"
@@ -38,7 +38,7 @@ export default function Gallery() {
             {/* Image 3 */}
             <Box w="25%" >
             <Image
-                src="/src/assets/download.jpg"
+                src="/download.jpg"
                 alt="Image 3"
                 objectFit="cover"
                 width="100%"
@@ -49,7 +49,7 @@ export default function Gallery() {
             {/* Image 4 */}
             <Box w="25%">
             <Image
-                src="/src/assets/download.jpg"
+                src="/download.jpg"
                 alt="Image 4"
                 objectFit="cover"
                 width="100%"

@@ -16,7 +16,7 @@ export default function NewArrivals() {
             <Box h="450px" w="500px">
                 <Box h="500px" bgColor="#f5f5f5" borderRadius="10px" cursor="pointer" onClick={() => navigate("/product/THEWEEKND-TRILOGY")}>
                     <Flex h="500px" align="center" justify="center">
-                        <Image src="/src/assets/Trilogy-for-web.png" />
+                        <Image src="/Trilogy-for-web.png" />
                     </Flex>
                 </Box>
                 <Text p="5px" fontSize="lg" fontFamily="Objective-medium" marginTop="15px" color="black">THEWEEKND TRILOGY T-SHIRT</Text>
@@ -25,7 +25,7 @@ export default function NewArrivals() {
             <Box h="450px" w="500px">
                 <Box h="500px" bgColor="#f5f5f5" borderRadius="10px" cursor="pointer" onClick={() => navigate("/product/TYLER-THE-CREATOR")}>
                     <Flex h="500px" align="center" justify="center">
-                        <Image src="/src/assets/Tyler-for-web.png" />
+                        <Image src="/Tyler-for-web.png" />
                     </Flex>
                 </Box>
                 <Text p="5px" fontSize="lg" fontFamily="Objective-medium" marginTop="15px" color="black">TYLER THE CREATOR T-SHIRT</Text>
@@ -34,7 +34,7 @@ export default function NewArrivals() {
             <Box h="450px" w="500px">
                 <Box h="500px" bgColor="#f5f5f5" borderRadius="10px" cursor="pointer" onClick={() => navigate("/product/JEEN-YUHS-KANYE")}>
                     <Flex h="500px" align="center" justify="center">
-                        <Image src="/src/assets/kanye-for-web.png" />
+                        <Image src="/kanye-for-web.png" />
                     </Flex>
                 </Box>
                 <Text p="5px" fontSize="lg" fontFamily="Objective-medium" marginTop="15px" color="black">JEEN-YUHS KANYE T-SHIRT</Text>

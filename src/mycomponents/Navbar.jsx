@@ -23,7 +23,7 @@ export default function Navbar() {
                 </Link>
             </HStack>
             <Box >
-                <Image src="/src/assets/orphic-logo-for-web.png" alt="Orphic Logo" h="42px" mx="auto" />
+                <Image src="/orphic-logo-for-web.png" alt="Orphic Logo" h="42px" mx="auto" />
             </Box>
             <HStack marginLeft="100px" p="10" gap={10} alignItems="center" justify="center">
                     <IoIosSearch size="35" color="black"/>

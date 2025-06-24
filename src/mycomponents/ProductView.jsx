@@ -1,4 +1,4 @@
-import {Text,Box,Flex} from "@chakra-ui/react"
+import {Text,Box,Flex, Image} from "@chakra-ui/react"
 import { useNavigate, useParams } from "react-router-dom"
 import productDetails from "../dummyData/products.json"
 import { useEffect, useState } from "react";
@@ -17,14 +17,16 @@ export default function ProductView() {
   }, [productURL]);
 
   return (
-    <Box align="center" h="600px">
+    <Box align="center" h="680px">
         {product!==null ? (
             <>
         {/* insert breadcrumb menu here and give p=30px */}
-        <Flex height="600px" p="30px" gap="3">
+        <Flex height="700px" p="30px" gap="3">
         {/* Left Section - 60% */}
-            <Box flex="6.7" bg="blue.500" color="white" display="flex"  overflowY="auto" maxHeight="600px" p="10px">
-          67% Width Section
+            <Box flex="6.7" color="white" display="flex" flexWrap="wrap" overflowY="auto" maxHeight="650px" p="10px" >
+                    <Image p="5px" h="630px" w="490px" src="/tyler01.png" alt="no image" />
+                    <Image p="5px" h="630px" w="490px" src="/tyler01.png" alt="no image" />
+                    <Image p="5px" h="600px" w="490px" src="/tyler01.png" alt="no image" />
             </Box>
 
         {/* Right Section - 40% */}
@@ -44,7 +46,7 @@ export default function ProductView() {
                     </Box>
                 </Box>
                 <Box p="10px" w="100%">
-                    <Text fontFamily="Objective-medium" fontSize="20px" whiteSpace="pre-wrap" color="black">{product.description}</Text>
+                    <Text fontFamily="Objective-medium" fontSize="15px" whiteSpace="pre-wrap" color="black">{product.description}</Text>
                 </Box>
             </Box>
         </Flex>

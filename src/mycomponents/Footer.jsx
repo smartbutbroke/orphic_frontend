@@ -9,7 +9,7 @@ export default function Footer() {
         <Box w="100%" h="90px"></Box>
         <Flex>
             <Box marginLeft="70px">
-                <Image scale="0.9" marginLeft="-2" src="/src/assets/orphic-logo-for-web.png" alt="orphic logo" />
+                <Image scale="0.9" marginLeft="-2" src="/orphic-logo-for-web.png" alt="orphic logo" />
                 <Text fontFamily="Helvetica" marginTop="30px" fontWeight="bold" fontSize="sm" color="black">munjalsindhav@orphic.com</Text>
                 <Text fontFamily="Helvetica" fontWeight="bold" fontSize="sm" color="black">rhythmanjaria@orphic.com</Text>
             </Box>

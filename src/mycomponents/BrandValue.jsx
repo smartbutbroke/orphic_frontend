@@ -5,7 +5,7 @@ export default function BrandValue() {
     <Box>
         <Flex direction="row" justify="space-between" w="100%">
             <Flex align="center" justify="center" w="50%">
-                <Text marginTop="20px" fontFamily="HelveticaNow-Black" p="2px" w="80%" fontSize="2xl" color="black">
+                <Text marginTop="20px" fontFamily="HelveticaNow-Bold" p="2px" w="80%" fontSize="2xl" color="black">
                     ORPHIC® IS A BRAND FOUNDED BY TWO FRIENDS,
                     BUILT ON A VISION OF FOSTERING COMMUNITY AND
                     CELEBRATING INDIVIDUALITY. WITH EACH PIECE,
@@ -15,7 +15,7 @@ export default function BrandValue() {
                 </Text>
             </Flex>
             <Box p="15px"w="50%">
-                <Image scale="0.8" w="90%" src="/src/assets/BrandValue.png" alt="Branding image" objectFit="cover" />
+                <Image scale="0.8" w="90%" src="/BrandValue.png" alt="Branding image" objectFit="cover" />
             </Box>
         </Flex>
     </Box>
